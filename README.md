@@ -2,7 +2,7 @@
 
 - [第 1 章 認識與安裝 OpenCode](ch01.md)
 - [第 2 章 OpenCode 快速上手 — 實作 PDF 加浮水印工具](ch02.md)
-- [第 3 章 介面完整介紹、Claude Code & OpenCode 無痛切換](ch03.md)
+- [第 3 章 OpenCode 操作全攻略，與 Claude Code 無痛切換](ch03.md)
 - [第 4 章 Agent + Subagent — 組織你的 AI 團隊](ch04.md)
 - [第 5 章 用 MCP 與 Skills 幫 OpenCode 生出超能力](ch05.md)
 - [第 6 章 設定檔與權限 — 解密你的 opencode.json](ch06.md)
