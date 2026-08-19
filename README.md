@@ -1,4 +1,4 @@
-# 旗標科技《AI Harness 駕輕就熟 用 OpenCode 讓 Vibe Coding 更自由》服務專區
+# 旗標科技《AI Harness 駕輕就熟：用 OpenCode 讓 Vibe Coding 更自由》服務專區
 
 - [第 1 章 認識與安裝 OpenCode](ch01.md)
 - [第 2 章 OpenCode 快速上手 — 實作 PDF 加浮水印工具](ch02.md)
